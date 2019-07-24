@@ -1,0 +1,25 @@
+:root {
+	/* Colors */
+	--color-background: #fff;
+	--color-foreground: #000;
+	--color-dark: #333;
+	--color-light: #fff;
+	--color-md-light: #aaa;
+	--color-md-dark: #666;
+	--color-primary: #00f;
+	--color-info: #f0f;
+	--color-success: #0f0;
+	--color-danger: #0ff;
+	--color-callout: #ff0;
+
+	/* Font Styles */
+	--font-size: 16px;
+	--font-line-height: 1;
+	/* Font Stacks */
+	--font-stack: Times;
+	--font-stack-code: Courier;
+	
+	/* Layout */
+	--vertical-space: 1rem;
+}
+			
